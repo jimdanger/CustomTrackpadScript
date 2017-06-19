@@ -16,10 +16,10 @@
 ## :shipit: To install
 * Pull repo
 * Open the Applescript with Script Editor
-* Read "Gotchas" section.
+* Read "Gotchas" section. :heavy_exclamation_mark: Required. :heavy_exclamation_mark:
 * Click run or press <code>command r</code>
 * Bonus:
-  * Export Applescript as an Application. (Script Editor -> File -> Export...)
+  * Export the Applescript as an Application. (Script Editor -> File -> Export...)
   * Then, either put the Application in your dock, or memorize whatever you name it, so you can spotlight-run it quickly.
 
 
@@ -36,5 +36,5 @@
 * No problem!  
   * Pull this repo
   * Open the Applescript with Script Editor
-  * Find the following line: <code>set shouldAlsoToggleThreeFingerDrag to true</code> (
+  * Find the following line: <code>set userWantsToToggleThreeFingerDrag to true</code>
   * Change <code>true</code> to <code>false</code>
